@@ -1,0 +1,3 @@
+fonction 1 : fonction qui parcourt un tableau ou pour chaque élément lui ai attribué un chiffre random entre 0 et 100 et on retourne le tableau
+fonction 2 : fonction qui fait une boucle dans une boucle qui renvoie le paramètre d'entrée
+fonction 3 : fonction qui crée un tableau en html avec le nombre adéquat de ligne et de colonnes

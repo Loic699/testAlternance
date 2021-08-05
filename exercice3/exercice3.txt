@@ -1,0 +1,28 @@
+//Partie A
+Madame, monsieur (Nom du client),
+
+Je me permets de vous contacter suite à un incident due à mon train qui a été annulé. 
+Cependant je ne pourrais donc pas venir à notre rendez-vous de livraison de l'application.
+
+Je me permets également de vous reproposer un nouveau rendez-vous pour le : jj/mm/AAA.
+Je vous prie de bien vouloir m'excuser pour ce désagrément.
+
+En vous souhaitant une agréable journée.
+
+Cordialement, 
+PIMET Loïc
+
+
+//Partie B
+Madame, Monsieur (Nom du client),
+
+Je vous contacte suite à votre mail, dans lequel vous indiquez être en difficulté pour vous connecter a notre application.
+Merci de bien vouloir suivre les étapes suivantes:
+Etape 1 : Fermez l'application
+Etape 2 : Relancez l'application après 2 secondes environ
+Etape 3 : Connectez-vous
+
+Je vous prie de bien vouloir me dire si cela vous a débloqué.
+
+Cordialement,
+PIMET Loïc
